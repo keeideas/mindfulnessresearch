@@ -1,0 +1,35 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Mindfulness Research Space"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Postprint"
+    url = "/article/"
+    weight = 2
+[[menu.main]]
+    name = "Resource"
+    url = "/scoping/"
+    weight = 3
+[[menu.main]]
+    name = "Instagram"
+    url = "/instagram/"
+    weight = 4
+    
+
+
+[params]
+    description = "A landing site for 'Scoping Review of Mindfulness Research'."
+    footer = "&copy; Kee Y. H. PhD |  [Twitter](https://twitter.com/keefellow)"

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Mindfulness Research Space</title>
+    <link>/</link>
+    <description>Recent content in Home on Mindfulness Research Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instagram</title>
+      <link>/instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/instagram/</guid>
+      <description>Follow @mindfulness.research for regular updates of Instagram posts on mindfulness research.</description>
+    </item>
+    
+    <item>
+      <title>MindfulnessResearch.Space</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>MindfulnessResearch.Space is the landing site for the publication Scoping Review of Mindfulness Research: a Topic Modelling Approach authored by Ying Hwa Kee, Chunxiao Li, Leng Chee Kong, Crystal Jieyi Tang &amp;amp; Kuo-Liang Chuang. This paper was published in Mindfulness in 2019.</description>
+    </item>
+    
+    <item>
+      <title>Postprint</title>
+      <link>/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/article/</guid>
+      <description>You can download the postprint here.</description>
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>/scoping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/scoping/</guid>
+      <description>You can access and download the resource file that features the references here.</description>
+    </item>
+    
+  </channel>
+</rss>
